@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SMD133-Coolboy")(type "KiCad")(uri "${KIPRJMOD}/SMD133-Coolboy.kicad_sym")(options "")(descr ""))
+)
